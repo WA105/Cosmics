@@ -1,5 +1,5 @@
 # CORSIKA database reader
-Simple list of functions and a SWAN notebook example to query the sqlite3 database at CERN and save the result into a ROOT file.
+Simple list of functions and a SWAN notebook example to query the sqlite3 CORSIKA database at CERN and save the result into a ROOT file.
 ## Usage
 * Clone the folder on your `/eos/` user space on lxplus:
 ```
